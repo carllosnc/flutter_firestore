@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyBrdPCWT-O1tr7w2DA3kdmqh1pPPHCmNuw',
-    appId: '1:1053874147632:android:fc201ccc231967cdcb38f5',
+    appId: '1:1053874147632:android:0259ea3159a494fbcb38f5',
     messagingSenderId: '1053874147632',
     projectId: 'cnc-flutter-firestore',
     storageBucket: 'cnc-flutter-firestore.appspot.com',
